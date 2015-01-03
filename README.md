@@ -1,5 +1,5 @@
 kine
 ====
 
-- [] Locate the place
-- [] List people
+- Locate the place
+- List people
